@@ -38,8 +38,8 @@ URxvt.saveLines:30000
 URxvt.borderLess:False
 !!字体设置
 Xft.dpi:96
-URxvt.font:xft:Source Code Pro:antialias=True:pixelsize=18,xft:WenQuanYi Zen Hei:pixelsize=18
-URxvt.boldfont:xft:Source Code Pro:antialias=True:pixelsize=18,xft:WenQuanYi Zen Hei:pixelsize=18
+URxvt.font:xft:DejaVu Sans Mono:pixelsize=18:antialias=True:pixelsize=20,xft:WenQuanYi Zen Hei:pixelsize=20
+URxvt.boldfont:xft:monospace:antialias=True:pixelsize=18,xft:WenQuanYi Zen Hei:pixelsize=18
 !!透明度
 URxvt.transparent:   true
-URxvt.shading:       60
+URxvt.shading:       40
